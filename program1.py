@@ -1,3 +1,3 @@
-print ("hello practice 1")
-print ("toi la Tuong Vi")
+print("hello practice 1")
+print("toi la Tuong Vi")
 
